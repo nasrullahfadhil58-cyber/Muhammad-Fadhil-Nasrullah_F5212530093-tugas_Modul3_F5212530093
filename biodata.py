@@ -1,0 +1,5 @@
+print("BIODATA MAHASISWA")
+print("Nama: Muhammad Fadhil Nasrullah")
+print("NIM: F5212530093")
+print("Kelas: Sistem Informasi C")
+print("Universitas Tadulako")
